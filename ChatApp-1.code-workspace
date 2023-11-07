@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../ChatApp-1"
+		},
+		{
+			"path": "../../Downloads/NodejsChatApp-master/NodejsChatApp-master/views"
+		},
+		{
+			"path": "../../Downloads/NodejsChatApp-master/NodejsChatApp-master/node_modules"
+		},
+		{
+			"path": "../../Downloads/NodejsChatApp-master/NodejsChatApp-master/public"
+		}
+	],
+	"settings": {}
+}
